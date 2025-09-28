@@ -1,0 +1,1 @@
+AVAL_COMMANDS=["sysinfo"]
