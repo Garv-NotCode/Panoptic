@@ -1,1 +1,1 @@
-AVAL_COMMANDS=["sysinfo"]
+AVAILABLE_COMMANDS=["sysinfo"]
